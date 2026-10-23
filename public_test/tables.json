@@ -1,0 +1,1051 @@
+[
+ {
+  "source": "doc_024.html",
+  "caption": "Consolidated income statement for the year ended 31 December (USD millions, except per-share data)",
+  "html": "<table class=\"income_statement\">\n<caption>Consolidated income statement for the year ended 31 December (USD millions, except per-share data)</caption>\n<thead><tr>\n<th></th>\n<th>2024</th>\n<th>2023</th>\n</tr></thead>\n<tbody>\n<tr><td>Revenue</td><td class=\"num\">2,649.8</td><td class=\"num\">2,316.8</td></tr>\n<tr><td>Cost of revenue</td><td class=\"num\">(844.4)</td><td class=\"num\">(726.8)</td></tr>\n<tr><td>Gross profit</td><td class=\"num\">1,805.4</td><td class=\"num\">1,590.0</td></tr>\n<tr><td>Research and development expenses</td><td class=\"num\">(551.1)</td><td class=\"num\">(429.0)</td></tr>\n<tr><td>Selling, general and administrative expenses</td><td class=\"num\">(742.2)</td><td class=\"num\">(616.3)</td></tr>\n<tr><td>Operating income</td><td class=\"num\">512.1</td><td class=\"num\">544.7</td></tr>\n<tr><td>Finance costs</td><td class=\"num\">(18.5)</td><td class=\"num\">(17.9)</td></tr>\n<tr><td>Other income (expense), net</td><td class=\"num\">6.4</td><td class=\"num\">(2.2)</td></tr>\n<tr><td>Income before income taxes</td><td class=\"num\">500.0</td><td class=\"num\">524.6</td></tr>\n<tr><td>Income tax expense</td><td class=\"num\">(116.5)</td><td class=\"num\">(122.3)</td></tr>\n<tr><td>Net income</td><td class=\"num\">383.5</td><td class=\"num\">402.3</td></tr>\n<tr><td>Diluted earnings per share (USD)</td><td class=\"num\">4.36</td><td class=\"num\">4.53</td></tr>\n<tr><td>Weighted average diluted shares (millions)</td><td class=\"num\">88.0</td><td class=\"num\">88.9</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Revenue",
+    "2024",
+    "2,649.8"
+   ],
+   [
+    "Revenue",
+    "2023",
+    "2,316.8"
+   ],
+   [
+    "Cost of revenue",
+    "2024",
+    "(844.4)"
+   ],
+   [
+    "Cost of revenue",
+    "2023",
+    "(726.8)"
+   ],
+   [
+    "Gross profit",
+    "2024",
+    "1,805.4"
+   ],
+   [
+    "Gross profit",
+    "2023",
+    "1,590.0"
+   ],
+   [
+    "Research and development expenses",
+    "2024",
+    "(551.1)"
+   ],
+   [
+    "Research and development expenses",
+    "2023",
+    "(429.0)"
+   ],
+   [
+    "Selling, general and administrative expenses",
+    "2024",
+    "(742.2)"
+   ],
+   [
+    "Selling, general and administrative expenses",
+    "2023",
+    "(616.3)"
+   ],
+   [
+    "Operating income",
+    "2024",
+    "512.1"
+   ],
+   [
+    "Operating income",
+    "2023",
+    "544.7"
+   ],
+   [
+    "Finance costs",
+    "2024",
+    "(18.5)"
+   ],
+   [
+    "Finance costs",
+    "2023",
+    "(17.9)"
+   ],
+   [
+    "Other income (expense), net",
+    "2024",
+    "6.4"
+   ],
+   [
+    "Other income (expense), net",
+    "2023",
+    "(2.2)"
+   ],
+   [
+    "Income before income taxes",
+    "2024",
+    "500.0"
+   ],
+   [
+    "Income before income taxes",
+    "2023",
+    "524.6"
+   ],
+   [
+    "Income tax expense",
+    "2024",
+    "(116.5)"
+   ],
+   [
+    "Income tax expense",
+    "2023",
+    "(122.3)"
+   ],
+   [
+    "Net income",
+    "2024",
+    "383.5"
+   ],
+   [
+    "Net income",
+    "2023",
+    "402.3"
+   ],
+   [
+    "Diluted earnings per share (USD)",
+    "2024",
+    "4.36"
+   ],
+   [
+    "Diluted earnings per share (USD)",
+    "2023",
+    "4.53"
+   ],
+   [
+    "Weighted average diluted shares (millions)",
+    "2024",
+    "88.0"
+   ],
+   [
+    "Weighted average diluted shares (millions)",
+    "2023",
+    "88.9"
+   ]
+  ]
+ },
+ {
+  "source": "doc_020.html",
+  "caption": "Consolidated balance sheet at 31 December (USD millions)",
+  "html": "<table class=\"balance_sheet\">\n<caption>Consolidated balance sheet at 31 December (USD millions)</caption>\n<thead><tr>\n<th></th>\n<th>31 December 2025</th>\n<th>31 December 2024</th>\n</tr></thead>\n<tbody>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Assets</th></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Current assets</th></tr>\n<tr><th scope=\"row\">Cash and cash equivalents</th><td class=\"num\">330.7</td><td class=\"num\">244.9</td></tr>\n<tr><th scope=\"row\">Accounts receivable, net</th><td class=\"num\">299.6</td><td class=\"num\">241.0</td></tr>\n<tr><th scope=\"row\">Other current assets</th><td class=\"num\">33.2</td><td class=\"num\">41.1</td></tr>\n<tr><th scope=\"row\">Total current assets</th><td class=\"num\">663.5</td><td class=\"num\">527.0</td></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Non-current assets</th></tr>\n<tr><th scope=\"row\">Property, plant and equipment, net</th><td class=\"num\">101.7</td><td class=\"num\">87.8</td></tr>\n<tr><th scope=\"row\">Goodwill and intangible assets</th><td class=\"num\">513.6</td><td class=\"num\">399.7</td></tr>\n<tr><th scope=\"row\">Other non-current assets</th><td class=\"num\">48.1</td><td class=\"num\">45.4</td></tr>\n<tr><th scope=\"row\">Total assets</th><td class=\"num\">1,326.9</td><td class=\"num\">1,059.9</td></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Liabilities and equity</th></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Current liabilities</th></tr>\n<tr><th scope=\"row\">Accounts payable</th><td class=\"num\">35.4</td><td class=\"num\">28.0</td></tr>\n<tr><th scope=\"row\">Short-term borrowings</th><td class=\"num\">55.7</td><td class=\"num\">50.4</td></tr>\n<tr><th scope=\"row\">Other current liabilities</th><td class=\"num\">92.3</td><td class=\"num\">80.8</td></tr>\n<tr><th scope=\"row\">Total current liabilities</th><td class=\"num\">183.4</td><td class=\"num\">159.2</td></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Non-current liabilities</th></tr>\n<tr><th scope=\"row\">Long-term borrowings</th><td class=\"num\">262.4</td><td class=\"num\">235.7</td></tr>\n<tr><th scope=\"row\">Other non-current liabilities</th><td class=\"num\">37.9</td><td class=\"num\">47.7</td></tr>\n<tr><th scope=\"row\">Total liabilities</th><td class=\"num\">483.7</td><td class=\"num\">442.6</td></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Equity</th></tr>\n<tr><th scope=\"row\">Share capital and share premium</th><td class=\"num\">142.1</td><td class=\"num\">142.1</td></tr>\n<tr><th scope=\"row\">Retained earnings</th><td class=\"num\">701.1</td><td class=\"num\">475.2</td></tr>\n<tr><th scope=\"row\">Total equity</th><td class=\"num\">843.2</td><td class=\"num\">617.3</td></tr>\n<tr><th scope=\"row\">Total liabilities and equity</th><td class=\"num\">1,326.9</td><td class=\"num\">1,059.9</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Cash and cash equivalents",
+    "31 December 2025",
+    "330.7"
+   ],
+   [
+    "Cash and cash equivalents",
+    "31 December 2024",
+    "244.9"
+   ],
+   [
+    "Accounts receivable, net",
+    "31 December 2025",
+    "299.6"
+   ],
+   [
+    "Accounts receivable, net",
+    "31 December 2024",
+    "241.0"
+   ],
+   [
+    "Other current assets",
+    "31 December 2025",
+    "33.2"
+   ],
+   [
+    "Other current assets",
+    "31 December 2024",
+    "41.1"
+   ],
+   [
+    "Total current assets",
+    "31 December 2025",
+    "663.5"
+   ],
+   [
+    "Total current assets",
+    "31 December 2024",
+    "527.0"
+   ],
+   [
+    "Property, plant and equipment, net",
+    "31 December 2025",
+    "101.7"
+   ],
+   [
+    "Property, plant and equipment, net",
+    "31 December 2024",
+    "87.8"
+   ],
+   [
+    "Goodwill and intangible assets",
+    "31 December 2025",
+    "513.6"
+   ],
+   [
+    "Goodwill and intangible assets",
+    "31 December 2024",
+    "399.7"
+   ],
+   [
+    "Other non-current assets",
+    "31 December 2025",
+    "48.1"
+   ],
+   [
+    "Other non-current assets",
+    "31 December 2024",
+    "45.4"
+   ],
+   [
+    "Total assets",
+    "31 December 2025",
+    "1,326.9"
+   ],
+   [
+    "Total assets",
+    "31 December 2024",
+    "1,059.9"
+   ],
+   [
+    "Accounts payable",
+    "31 December 2025",
+    "35.4"
+   ],
+   [
+    "Accounts payable",
+    "31 December 2024",
+    "28.0"
+   ],
+   [
+    "Short-term borrowings",
+    "31 December 2025",
+    "55.7"
+   ],
+   [
+    "Short-term borrowings",
+    "31 December 2024",
+    "50.4"
+   ],
+   [
+    "Other current liabilities",
+    "31 December 2025",
+    "92.3"
+   ],
+   [
+    "Other current liabilities",
+    "31 December 2024",
+    "80.8"
+   ],
+   [
+    "Total current liabilities",
+    "31 December 2025",
+    "183.4"
+   ],
+   [
+    "Total current liabilities",
+    "31 December 2024",
+    "159.2"
+   ],
+   [
+    "Long-term borrowings",
+    "31 December 2025",
+    "262.4"
+   ],
+   [
+    "Long-term borrowings",
+    "31 December 2024",
+    "235.7"
+   ],
+   [
+    "Other non-current liabilities",
+    "31 December 2025",
+    "37.9"
+   ],
+   [
+    "Other non-current liabilities",
+    "31 December 2024",
+    "47.7"
+   ],
+   [
+    "Total liabilities",
+    "31 December 2025",
+    "483.7"
+   ],
+   [
+    "Total liabilities",
+    "31 December 2024",
+    "442.6"
+   ],
+   [
+    "Share capital and share premium",
+    "31 December 2025",
+    "142.1"
+   ],
+   [
+    "Share capital and share premium",
+    "31 December 2024",
+    "142.1"
+   ],
+   [
+    "Retained earnings",
+    "31 December 2025",
+    "701.1"
+   ],
+   [
+    "Retained earnings",
+    "31 December 2024",
+    "475.2"
+   ],
+   [
+    "Total equity",
+    "31 December 2025",
+    "843.2"
+   ],
+   [
+    "Total equity",
+    "31 December 2024",
+    "617.3"
+   ],
+   [
+    "Total liabilities and equity",
+    "31 December 2025",
+    "1,326.9"
+   ],
+   [
+    "Total liabilities and equity",
+    "31 December 2024",
+    "1,059.9"
+   ]
+  ]
+ },
+ {
+  "source": "doc_003.html",
+  "caption": "Consolidated cash flow statement for the year ended 31 December (USD millions)",
+  "html": "<table class=\"cash_flow\">\n<caption>Consolidated cash flow statement for the year ended 31 December (USD millions)</caption>\n<thead><tr>\n<th></th>\n<th>2024</th>\n<th>2023</th>\n</tr></thead>\n<tbody>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Operating activities</th></tr>\n<tr><td>Net income</td><td class=\"num\">369.1</td><td class=\"num\">388.1</td></tr>\n<tr><td>Depreciation and amortisation</td><td class=\"num\">329.6</td><td class=\"num\">300.2</td></tr>\n<tr><td>Share-based compensation and other non-cash items</td><td class=\"num\">21.2</td><td class=\"num\">8.2</td></tr>\n<tr><td>Changes in working capital</td><td class=\"num\">(53.8)</td><td class=\"num\">34.4</td></tr>\n<tr><td>Net cash from operating activities</td><td class=\"num\">666.1</td><td class=\"num\">730.9</td></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Investing activities</th></tr>\n<tr><td>Purchases of property, plant and equipment</td><td class=\"num\">(409.3)</td><td class=\"num\">(527.7)</td></tr>\n<tr><td>Other investing activities, net</td><td class=\"num\">(5.4)</td><td class=\"num\">(10.9)</td></tr>\n<tr><td>Net cash used in investing activities</td><td class=\"num\">(414.7)</td><td class=\"num\">(538.6)</td></tr>\n<tr class=\"section\"><th scope=\"row\" colspan=\"3\">Financing activities</th></tr>\n<tr><td>Net change in borrowings</td><td class=\"num\">34.3</td><td class=\"num\">(38.1)</td></tr>\n<tr><td>Dividends paid</td><td class=\"num\">(139.7)</td><td class=\"num\">(151.8)</td></tr>\n<tr><td>Share repurchases</td><td class=\"num\">(188.4)</td><td class=\"num\">–</td></tr>\n<tr><td>Other financing activities, net</td><td class=\"num\">(4.6)</td><td class=\"num\">34.2</td></tr>\n<tr><td>Net cash from (used in) financing activities</td><td class=\"num\">(298.4)</td><td class=\"num\">(155.7)</td></tr>\n<tr><td>Net increase (decrease) in cash and cash equivalents</td><td class=\"num\">(47.0)</td><td class=\"num\">36.6</td></tr>\n<tr><td>Cash and cash equivalents at beginning of year</td><td class=\"num\">350.8</td><td class=\"num\">314.2</td></tr>\n<tr><td>Cash and cash equivalents at end of year</td><td class=\"num\">303.8</td><td class=\"num\">350.8</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Net income",
+    "2024",
+    "369.1"
+   ],
+   [
+    "Net income",
+    "2023",
+    "388.1"
+   ],
+   [
+    "Depreciation and amortisation",
+    "2024",
+    "329.6"
+   ],
+   [
+    "Depreciation and amortisation",
+    "2023",
+    "300.2"
+   ],
+   [
+    "Share-based compensation and other non-cash items",
+    "2024",
+    "21.2"
+   ],
+   [
+    "Share-based compensation and other non-cash items",
+    "2023",
+    "8.2"
+   ],
+   [
+    "Changes in working capital",
+    "2024",
+    "(53.8)"
+   ],
+   [
+    "Changes in working capital",
+    "2023",
+    "34.4"
+   ],
+   [
+    "Net cash from operating activities",
+    "2024",
+    "666.1"
+   ],
+   [
+    "Net cash from operating activities",
+    "2023",
+    "730.9"
+   ],
+   [
+    "Purchases of property, plant and equipment",
+    "2024",
+    "(409.3)"
+   ],
+   [
+    "Purchases of property, plant and equipment",
+    "2023",
+    "(527.7)"
+   ],
+   [
+    "Other investing activities, net",
+    "2024",
+    "(5.4)"
+   ],
+   [
+    "Other investing activities, net",
+    "2023",
+    "(10.9)"
+   ],
+   [
+    "Net cash used in investing activities",
+    "2024",
+    "(414.7)"
+   ],
+   [
+    "Net cash used in investing activities",
+    "2023",
+    "(538.6)"
+   ],
+   [
+    "Net change in borrowings",
+    "2024",
+    "34.3"
+   ],
+   [
+    "Net change in borrowings",
+    "2023",
+    "(38.1)"
+   ],
+   [
+    "Dividends paid",
+    "2024",
+    "(139.7)"
+   ],
+   [
+    "Dividends paid",
+    "2023",
+    "(151.8)"
+   ],
+   [
+    "Share repurchases",
+    "2024",
+    "(188.4)"
+   ],
+   [
+    "Other financing activities, net",
+    "2024",
+    "(4.6)"
+   ],
+   [
+    "Other financing activities, net",
+    "2023",
+    "34.2"
+   ],
+   [
+    "Net cash from (used in) financing activities",
+    "2024",
+    "(298.4)"
+   ],
+   [
+    "Net cash from (used in) financing activities",
+    "2023",
+    "(155.7)"
+   ],
+   [
+    "Net increase (decrease) in cash and cash equivalents",
+    "2024",
+    "(47.0)"
+   ],
+   [
+    "Net increase (decrease) in cash and cash equivalents",
+    "2023",
+    "36.6"
+   ],
+   [
+    "Cash and cash equivalents at beginning of year",
+    "2024",
+    "350.8"
+   ],
+   [
+    "Cash and cash equivalents at beginning of year",
+    "2023",
+    "314.2"
+   ],
+   [
+    "Cash and cash equivalents at end of year",
+    "2024",
+    "303.8"
+   ],
+   [
+    "Cash and cash equivalents at end of year",
+    "2023",
+    "350.8"
+   ]
+  ]
+ },
+ {
+  "source": "doc_032.html",
+  "caption": "Revenue by segment (USD millions)",
+  "html": "<table class=\"segments\">\n<caption>Revenue by segment (USD millions)</caption>\n<thead><tr>\n<th>Segment</th>\n<th>2025</th>\n<th>2024</th>\n</tr></thead>\n<tbody>\n<tr><td>Upstream</td><td class=\"num\">506.9</td><td class=\"num\">504.5</td></tr>\n<tr><td>Midstream</td><td class=\"num\">716.6</td><td class=\"num\">659.1</td></tr>\n<tr><td>Renewables</td><td class=\"num\">1,212.8</td><td class=\"num\">1,088.6</td></tr>\n<tr><td>Total revenue</td><td class=\"num\">2,436.3</td><td class=\"num\">2,252.2</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Upstream",
+    "2025",
+    "506.9"
+   ],
+   [
+    "Upstream",
+    "2024",
+    "504.5"
+   ],
+   [
+    "Midstream",
+    "2025",
+    "716.6"
+   ],
+   [
+    "Midstream",
+    "2024",
+    "659.1"
+   ],
+   [
+    "Renewables",
+    "2025",
+    "1,212.8"
+   ],
+   [
+    "Renewables",
+    "2024",
+    "1,088.6"
+   ],
+   [
+    "Total revenue",
+    "2025",
+    "2,436.3"
+   ],
+   [
+    "Total revenue",
+    "2024",
+    "2,252.2"
+   ]
+  ]
+ },
+ {
+  "source": "doc_020.html",
+  "caption": "Revenue by region (USD millions)",
+  "html": "<table class=\"regions\">\n<caption>Revenue by region (USD millions)</caption>\n<thead><tr>\n<th>Region</th>\n<th>2025</th>\n<th>2024</th>\n</tr></thead>\n<tbody>\n<tr><td>Americas</td><td class=\"num\">274.5</td><td class=\"num\">218.1</td></tr>\n<tr><td>Europe, Middle East and Africa</td><td class=\"num\">739.0</td><td class=\"num\">565.1</td></tr>\n<tr><td>Asia Pacific</td><td class=\"num\">561.2</td><td class=\"num\">483.6</td></tr>\n<tr><td>Total revenue</td><td class=\"num\">1,574.7</td><td class=\"num\">1,266.8</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Americas",
+    "2025",
+    "274.5"
+   ],
+   [
+    "Americas",
+    "2024",
+    "218.1"
+   ],
+   [
+    "Europe, Middle East and Africa",
+    "2025",
+    "739.0"
+   ],
+   [
+    "Europe, Middle East and Africa",
+    "2024",
+    "565.1"
+   ],
+   [
+    "Asia Pacific",
+    "2025",
+    "561.2"
+   ],
+   [
+    "Asia Pacific",
+    "2024",
+    "483.6"
+   ],
+   [
+    "Total revenue",
+    "2025",
+    "1,574.7"
+   ],
+   [
+    "Total revenue",
+    "2024",
+    "1,266.8"
+   ]
+  ]
+ },
+ {
+  "source": "doc_023.html",
+  "caption": "Accounts receivable at 31 December (USD millions)",
+  "html": "<table class=\"receivables\">\n<caption>Accounts receivable at 31 December (USD millions)</caption>\n<thead><tr>\n<th></th>\n<th>2025</th>\n<th>2024</th>\n</tr></thead>\n<tbody>\n<tr><td>Trade receivables, gross</td><td class=\"num\">357.7</td><td class=\"num\">350.5</td></tr>\n<tr><td>Allowance for expected credit losses</td><td class=\"num\">(16.9)</td><td class=\"num\">(15.1)</td></tr>\n<tr><td>Accounts receivable, net</td><td class=\"num\">340.8</td><td class=\"num\">335.4</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Trade receivables, gross",
+    "2025",
+    "357.7"
+   ],
+   [
+    "Trade receivables, gross",
+    "2024",
+    "350.5"
+   ],
+   [
+    "Allowance for expected credit losses",
+    "2025",
+    "(16.9)"
+   ],
+   [
+    "Allowance for expected credit losses",
+    "2024",
+    "(15.1)"
+   ],
+   [
+    "Accounts receivable, net",
+    "2025",
+    "340.8"
+   ],
+   [
+    "Accounts receivable, net",
+    "2024",
+    "335.4"
+   ]
+  ]
+ },
+ {
+  "source": "doc_003.html",
+  "caption": "Borrowings at 31 December (USD millions)",
+  "html": "<table class=\"borrowings\">\n<caption>Borrowings at 31 December (USD millions)</caption>\n<thead><tr>\n<th></th>\n<th>2024</th>\n<th>2023</th>\n</tr></thead>\n<tbody>\n<tr><td>Short-term borrowings</td><td class=\"num\">55.5</td><td class=\"num\">46.1</td></tr>\n<tr><td>Long-term borrowings</td><td class=\"num\">276.5</td><td class=\"num\">251.6</td></tr>\n<tr><td>Total borrowings</td><td class=\"num\">332.0</td><td class=\"num\">297.7</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Short-term borrowings",
+    "2024",
+    "55.5"
+   ],
+   [
+    "Short-term borrowings",
+    "2023",
+    "46.1"
+   ],
+   [
+    "Long-term borrowings",
+    "2024",
+    "276.5"
+   ],
+   [
+    "Long-term borrowings",
+    "2023",
+    "251.6"
+   ],
+   [
+    "Total borrowings",
+    "2024",
+    "332.0"
+   ],
+   [
+    "Total borrowings",
+    "2023",
+    "297.7"
+   ]
+  ]
+ },
+ {
+  "source": "doc_011.html",
+  "caption": "Employees at 31 December by function (number of people)",
+  "html": "<table class=\"employees\">\n<caption>Employees at 31 December by function (number of people)</caption>\n<thead><tr>\n<th>Function</th>\n<th>2025</th>\n<th>2024</th>\n</tr></thead>\n<tbody>\n<tr><td>Operations</td><td class=\"num\">1,887</td><td class=\"num\">1,761</td></tr>\n<tr><td>Sales and marketing</td><td class=\"num\">655</td><td class=\"num\">717</td></tr>\n<tr><td>Research and development</td><td class=\"num\">158</td><td class=\"num\">165</td></tr>\n<tr><td>General and administration</td><td class=\"num\">260</td><td class=\"num\">254</td></tr>\n<tr><td>Total employees</td><td class=\"num\">2,960</td><td class=\"num\">2,897</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Operations",
+    "2025",
+    "1,887"
+   ],
+   [
+    "Operations",
+    "2024",
+    "1,761"
+   ],
+   [
+    "Sales and marketing",
+    "2025",
+    "655"
+   ],
+   [
+    "Sales and marketing",
+    "2024",
+    "717"
+   ],
+   [
+    "Research and development",
+    "2025",
+    "158"
+   ],
+   [
+    "Research and development",
+    "2024",
+    "165"
+   ],
+   [
+    "General and administration",
+    "2025",
+    "260"
+   ],
+   [
+    "General and administration",
+    "2024",
+    "254"
+   ],
+   [
+    "Total employees",
+    "2025",
+    "2,960"
+   ],
+   [
+    "Total employees",
+    "2024",
+    "2,897"
+   ]
+  ]
+ },
+ {
+  "source": "doc_028.html",
+  "caption": "Board of directors at 31 December 2024",
+  "html": "<table class=\"board\">\n<caption>Board of directors at 31 December 2024</caption>\n<thead><tr>\n<th>Name</th>\n<th>Role</th>\n<th>Director since</th>\n</tr></thead>\n<tbody>\n<tr><td>Olivia Fischer</td><td class=\"num\">Chair of the Board</td><td class=\"num\">2013</td></tr>\n<tr><td>Liam Ferreira</td><td class=\"num\">Chief Executive Officer, executive director</td><td class=\"num\">2017</td></tr>\n<tr><td>Wendy Kaur</td><td class=\"num\">Chair of the Audit Committee</td><td class=\"num\">2022</td></tr>\n<tr><td>Daniel Whitaker</td><td class=\"num\">Independent non-executive director</td><td class=\"num\">2014</td></tr>\n<tr><td>Benjamin Tran</td><td class=\"num\">Independent non-executive director</td><td class=\"num\">2012</td></tr>\n<tr><td>William Rossi</td><td class=\"num\">Independent non-executive director</td><td class=\"num\">2019</td></tr>\n<tr><td>Hiroshi Haddad</td><td class=\"num\">Independent non-executive director</td><td class=\"num\">2022</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Olivia Fischer",
+    "Role",
+    "Chair of the Board"
+   ],
+   [
+    "Olivia Fischer",
+    "Director since",
+    "2013"
+   ],
+   [
+    "Liam Ferreira",
+    "Role",
+    "Chief Executive Officer, executive director"
+   ],
+   [
+    "Liam Ferreira",
+    "Director since",
+    "2017"
+   ],
+   [
+    "Wendy Kaur",
+    "Role",
+    "Chair of the Audit Committee"
+   ],
+   [
+    "Wendy Kaur",
+    "Director since",
+    "2022"
+   ],
+   [
+    "Daniel Whitaker",
+    "Role",
+    "Independent non-executive director"
+   ],
+   [
+    "Daniel Whitaker",
+    "Director since",
+    "2014"
+   ],
+   [
+    "Benjamin Tran",
+    "Role",
+    "Independent non-executive director"
+   ],
+   [
+    "Benjamin Tran",
+    "Director since",
+    "2012"
+   ],
+   [
+    "William Rossi",
+    "Role",
+    "Independent non-executive director"
+   ],
+   [
+    "William Rossi",
+    "Director since",
+    "2019"
+   ],
+   [
+    "Hiroshi Haddad",
+    "Role",
+    "Independent non-executive director"
+   ],
+   [
+    "Hiroshi Haddad",
+    "Director since",
+    "2022"
+   ]
+  ]
+ },
+ {
+  "source": "doc_008.html",
+  "caption": "Executive officers at 31 December 2024",
+  "html": "<table class=\"executives\">\n<caption>Executive officers at 31 December 2024</caption>\n<thead><tr>\n<th>Name</th>\n<th>Title</th>\n<th>In role since</th>\n</tr></thead>\n<tbody>\n<tr><td>James Kaur</td><td class=\"num\">Chief Executive Officer</td><td class=\"num\">2022</td></tr>\n<tr><td>Ursula Schultz</td><td class=\"num\">Chief Financial Officer</td><td class=\"num\">2016</td></tr>\n<tr><td>Rachel Hoffmann</td><td class=\"num\">Chief Operating Officer</td><td class=\"num\">2023</td></tr>\n<tr><td>Hannah Umeh</td><td class=\"num\">General Counsel</td><td class=\"num\">2017</td></tr>\n<tr><td>Julia Osei</td><td class=\"num\">Chief Technology Officer</td><td class=\"num\">2020</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "James Kaur",
+    "Title",
+    "Chief Executive Officer"
+   ],
+   [
+    "James Kaur",
+    "In role since",
+    "2022"
+   ],
+   [
+    "Ursula Schultz",
+    "Title",
+    "Chief Financial Officer"
+   ],
+   [
+    "Ursula Schultz",
+    "In role since",
+    "2016"
+   ],
+   [
+    "Rachel Hoffmann",
+    "Title",
+    "Chief Operating Officer"
+   ],
+   [
+    "Rachel Hoffmann",
+    "In role since",
+    "2023"
+   ],
+   [
+    "Hannah Umeh",
+    "Title",
+    "General Counsel"
+   ],
+   [
+    "Hannah Umeh",
+    "In role since",
+    "2017"
+   ],
+   [
+    "Julia Osei",
+    "Title",
+    "Chief Technology Officer"
+   ],
+   [
+    "Julia Osei",
+    "In role since",
+    "2020"
+   ]
+  ]
+ },
+ {
+  "source": "doc_013.html",
+  "caption": "Financial summary and Meridian Equity Research estimates (USD millions, except per-share data and ratios)",
+  "html": "<table class=\"rr_summary\">\n<caption>Financial summary and Meridian Equity Research estimates (USD millions, except per-share data and ratios)</caption>\n<thead><tr>\n<th></th>\n<th>FY2024A</th>\n<th>FY2025A</th>\n<th>FY2026E</th>\n<th>FY2027E</th>\n</tr></thead>\n<tbody>\n<tr><td>Revenue</td><td class=\"num\">2,629.1</td><td class=\"num\">2,710.4</td><td class=\"num\">2,945.7</td><td class=\"num\">3,200.5</td></tr>\n<tr><td>Revenue growth (%)</td><td class=\"num\">5.1</td><td class=\"num\">3.1</td><td class=\"num\">8.7</td><td class=\"num\">8.6</td></tr>\n<tr><td>Operating income</td><td class=\"num\">307.6</td><td class=\"num\">353.1</td><td class=\"num\">404.2</td><td class=\"num\">436.2</td></tr>\n<tr><td>Operating margin (%)</td><td class=\"num\">11.7</td><td class=\"num\">13.0</td><td class=\"num\">13.7</td><td class=\"num\">13.6</td></tr>\n<tr><td>Net income</td><td class=\"num\">201.9</td><td class=\"num\">241.6</td><td class=\"num\">276.5</td><td class=\"num\">298.4</td></tr>\n<tr><td>Diluted EPS (USD)</td><td class=\"num\">1.86</td><td class=\"num\">2.25</td><td class=\"num\">2.57</td><td class=\"num\">2.77</td></tr>\n<tr><td>P/E (x)</td><td class=\"num\">35.9</td><td class=\"num\">29.7</td><td class=\"num\">26.0</td><td class=\"num\">24.1</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Revenue",
+    "FY2024A",
+    "2,629.1"
+   ],
+   [
+    "Revenue",
+    "FY2025A",
+    "2,710.4"
+   ],
+   [
+    "Revenue",
+    "FY2026E",
+    "2,945.7"
+   ],
+   [
+    "Revenue",
+    "FY2027E",
+    "3,200.5"
+   ],
+   [
+    "Revenue growth (%)",
+    "FY2024A",
+    "5.1"
+   ],
+   [
+    "Revenue growth (%)",
+    "FY2025A",
+    "3.1"
+   ],
+   [
+    "Revenue growth (%)",
+    "FY2026E",
+    "8.7"
+   ],
+   [
+    "Revenue growth (%)",
+    "FY2027E",
+    "8.6"
+   ],
+   [
+    "Operating income",
+    "FY2024A",
+    "307.6"
+   ],
+   [
+    "Operating income",
+    "FY2025A",
+    "353.1"
+   ],
+   [
+    "Operating income",
+    "FY2026E",
+    "404.2"
+   ],
+   [
+    "Operating income",
+    "FY2027E",
+    "436.2"
+   ],
+   [
+    "Operating margin (%)",
+    "FY2024A",
+    "11.7"
+   ],
+   [
+    "Operating margin (%)",
+    "FY2025A",
+    "13.0"
+   ],
+   [
+    "Operating margin (%)",
+    "FY2026E",
+    "13.7"
+   ],
+   [
+    "Operating margin (%)",
+    "FY2027E",
+    "13.6"
+   ],
+   [
+    "Net income",
+    "FY2024A",
+    "201.9"
+   ],
+   [
+    "Net income",
+    "FY2025A",
+    "241.6"
+   ],
+   [
+    "Net income",
+    "FY2026E",
+    "276.5"
+   ],
+   [
+    "Net income",
+    "FY2027E",
+    "298.4"
+   ],
+   [
+    "Diluted EPS (USD)",
+    "FY2024A",
+    "1.86"
+   ],
+   [
+    "Diluted EPS (USD)",
+    "FY2025A",
+    "2.25"
+   ],
+   [
+    "Diluted EPS (USD)",
+    "FY2026E",
+    "2.57"
+   ],
+   [
+    "Diluted EPS (USD)",
+    "FY2027E",
+    "2.77"
+   ],
+   [
+    "P/E (x)",
+    "FY2024A",
+    "35.9"
+   ],
+   [
+    "P/E (x)",
+    "FY2025A",
+    "29.7"
+   ],
+   [
+    "P/E (x)",
+    "FY2026E",
+    "26.0"
+   ],
+   [
+    "P/E (x)",
+    "FY2027E",
+    "24.1"
+   ]
+  ]
+ },
+ {
+  "source": "doc_015.html",
+  "caption": "Peer valuation",
+  "html": "<table class=\"rr_peers\">\n<caption>Peer valuation</caption>\n<thead><tr>\n<th>Company</th>\n<th>Ticker</th>\n<th>P/E FY2026E (x)</th>\n</tr></thead>\n<tbody>\n<tr><td>Sablewood Retail Inc.</td><td class=\"num\">SBWR</td><td class=\"num\">15.5</td></tr>\n<tr><td>Northgate Robotics Inc.</td><td class=\"num\">NGR</td><td class=\"num\">26.0</td></tr>\n<tr><td>Kestrel Semiconductor Ltd.</td><td class=\"num\">KSTL</td><td class=\"num\">13.1</td></tr>\n<tr><td>Lumen Harbor Foods plc</td><td class=\"num\">LHF</td><td class=\"num\">11.5</td></tr>\n</tbody></table>",
+  "cells": [
+   [
+    "Sablewood Retail Inc.",
+    "Ticker",
+    "SBWR"
+   ],
+   [
+    "Sablewood Retail Inc.",
+    "P/E FY2026E (x)",
+    "15.5"
+   ],
+   [
+    "Northgate Robotics Inc.",
+    "Ticker",
+    "NGR"
+   ],
+   [
+    "Northgate Robotics Inc.",
+    "P/E FY2026E (x)",
+    "26.0"
+   ],
+   [
+    "Kestrel Semiconductor Ltd.",
+    "Ticker",
+    "KSTL"
+   ],
+   [
+    "Kestrel Semiconductor Ltd.",
+    "P/E FY2026E (x)",
+    "13.1"
+   ],
+   [
+    "Lumen Harbor Foods plc",
+    "Ticker",
+    "LHF"
+   ],
+   [
+    "Lumen Harbor Foods plc",
+    "P/E FY2026E (x)",
+    "11.5"
+   ]
+  ]
+ }
+]

@@ -1,0 +1,677 @@
+{
+ "doc_001.html": {
+  "company": "Orchid Bay Hotels",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "155.5",
+   "349.3",
+   "231.3",
+   "Sofia Castillo",
+   "953.9",
+   "228.8",
+   "316.2",
+   "953.9",
+   "(26.2)",
+   "(15.1)",
+   "Chief Technology Officer",
+   "Chair of the Audit Committee"
+  ]
+ },
+ "doc_002.html": {
+  "company": "Orchid Bay Hotels",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "183.9",
+   "1,039.5",
+   "341.7",
+   "2.38",
+   "336.6",
+   "376.3",
+   "264.2",
+   "231.3",
+   "1,440.3",
+   "9,568",
+   "(15.1)",
+   "247.3"
+  ]
+ },
+ "doc_003.html": {
+  "company": "Brightwater Energy",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "605.4",
+   "2,815.7",
+   "388.1",
+   "666.1",
+   "Ursula Zhang",
+   "350.8",
+   "(128.9)",
+   "126.5",
+   "3,505.7",
+   "643.4",
+   "(409.3)",
+   "442.2"
+  ]
+ },
+ "doc_004.html": {
+  "company": "Sablewood Retail",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "966.8",
+   "204.2",
+   "502.2",
+   "Olivia Petrov",
+   "1,371.4",
+   "Whitlock Byrne LLP",
+   "General Counsel",
+   "507.2",
+   "502.2",
+   "944.1",
+   "(24.3)",
+   "183.9"
+  ]
+ },
+ "doc_005.html": {
+  "company": "Kestrel Semiconductor",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "2,083.1",
+   "Crane Hollis LLP",
+   "674.0",
+   "516.0",
+   "1,139.1",
+   "460.1",
+   "2,007.6",
+   "(1,036.7)",
+   "Independent non-executive director",
+   "115.1",
+   "674.0",
+   "968.1"
+  ]
+ },
+ "doc_006.html": {
+  "company": "Brightwater Energy",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "12.5%",
+   "Ursula Zhang",
+   "Oscar Silva",
+   "200"
+  ]
+ },
+ "doc_007.html": {
+  "company": "Sablewood Retail",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "8.5%",
+   "Olivia Petrov",
+   "Isabel Petrov"
+  ]
+ },
+ "doc_008.html": {
+  "company": "Halcyon Freight",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "805.8",
+   "5.89",
+   "173.9",
+   "335.1",
+   "710.2",
+   "551.8",
+   "1,058.1",
+   "529.9",
+   "493.9",
+   "(20.5)",
+   "710.2",
+   "803.0"
+  ]
+ },
+ "doc_009.html": {
+  "company": "Corvane Pharma",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "Gabriel Petrov",
+   "150",
+   "Thomas Moreau",
+   "8.5%"
+  ]
+ },
+ "doc_010.html": {
+  "company": "Sablewood Retail",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "3.69",
+   "3.61",
+   "2,390.3",
+   "HOLD",
+   "210.8",
+   "2,605.8",
+   "2,862.6",
+   "151.7",
+   "204.2",
+   "269.4",
+   "2,390.3",
+   "150.2"
+  ]
+ },
+ "doc_011.html": {
+  "company": "Northgate Payments",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "2.19",
+   "Charlotte",
+   "437.3",
+   "381.7",
+   "343.1",
+   "302.7",
+   "459.5",
+   "(31.4)",
+   "(233.5)",
+   "(4.1)",
+   "160.5",
+   "472.7"
+  ]
+ },
+ "doc_012.html": {
+  "company": "Northgate Payments",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "1,159.9",
+   "1,426.0",
+   "191.0",
+   "236.6",
+   "7.5%",
+   "1,333.6",
+   "1,512.0",
+   "307.6",
+   "1,333.6",
+   "280.5",
+   "1,426.0",
+   "236.6"
+  ]
+ },
+ "doc_013.html": {
+  "company": "Northgate Robotics",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "201.9",
+   "241.6",
+   "353.1",
+   "307.6",
+   "2,945.7",
+   "1.86",
+   "2,945.7",
+   "307.6",
+   "353.1",
+   "298.4",
+   "2,629.1",
+   "276.5"
+  ]
+ },
+ "doc_014.html": {
+  "company": "Northgate Robotics",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "10%",
+   "Thomas Kaur",
+   "125",
+   "Liam Ferreira"
+  ]
+ },
+ "doc_015.html": {
+  "company": "Lumen Harbor Foods",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "187.7",
+   "14%",
+   "4.44",
+   "200.3",
+   "BUY",
+   "1,848.5",
+   "1,819.4",
+   "276.6",
+   "187.7",
+   "274.7",
+   "2,129.5",
+   "2,434.2"
+  ]
+ },
+ "doc_016.html": {
+  "company": "Halcyon Freight",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "1,862.8",
+   "242.4",
+   "James Kaur",
+   "335.1",
+   "475.7",
+   "417.5",
+   "417.5",
+   "266.4",
+   "1,097.5",
+   "1,360",
+   "(125.8)",
+   "Chair of the Board"
+  ]
+ },
+ "doc_017.html": {
+  "company": "Kestrel Semiconductor",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "528.9",
+   "2,617.5",
+   "2,409.4",
+   "2,175.8",
+   "4.64",
+   "4.00",
+   "584.3",
+   "2,617.5",
+   "607.6",
+   "2,409.4",
+   "2,175.8",
+   "695.0"
+  ]
+ },
+ "doc_018.html": {
+  "company": "Sablewood Retail",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "206.9",
+   "472.7",
+   "346.8",
+   "Columbus",
+   "952.7",
+   "2,123.7",
+   "183.2",
+   "932.2",
+   "346.8",
+   "8,988",
+   "Chair of the Board",
+   "516.4"
+  ]
+ },
+ "doc_019.html": {
+  "company": "Brightwater Energy",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "2.95",
+   "82.62",
+   "2,436.3",
+   "2,252.2",
+   "BUY",
+   "2,754.0",
+   "2,436.3",
+   "477.5",
+   "514.1",
+   "3,067.1",
+   "531.2",
+   "566.7"
+  ]
+ },
+ "doc_020.html": {
+  "company": "Brightwater Software",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "967.4",
+   "617.3",
+   "299.6",
+   "Yara Castillo",
+   "244.9",
+   "441.3",
+   "(92.0)",
+   "1,574.7",
+   "(160.5)",
+   "(0.5)",
+   "(32.7)",
+   "617.3"
+  ]
+ },
+ "doc_021.html": {
+  "company": "Brightwater Software",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "296.7",
+   "79.34",
+   "1,266.8",
+   "200.3",
+   "11.5%",
+   "1,736.5",
+   "1,266.8",
+   "370.4",
+   "1,910.1",
+   "260.1",
+   "296.7",
+   "1,574.7"
+  ]
+ },
+ "doc_022.html": {
+  "company": "Orchid Bay Hotels",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "Sofia Castillo",
+   "11.5%",
+   "Victoria Moreau"
+  ]
+ },
+ "doc_023.html": {
+  "company": "Lumen Harbor Foods",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "502.3",
+   "297.4",
+   "273.6",
+   "335.4",
+   "478.3",
+   "Manchester",
+   "(16.9)",
+   "Chief Executive Officer, executive director",
+   "(95.4)",
+   "363.0",
+   "702.1",
+   "(189.7)"
+  ]
+ },
+ "doc_024.html": {
+  "company": "Corvane Pharma",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "1,590.0",
+   "822.4",
+   "544.7",
+   "905.8",
+   "934.1",
+   "856.3",
+   "712.3",
+   "124.1",
+   "1,805.4",
+   "Chief Financial Officer",
+   "(393.1)",
+   "934.1"
+  ]
+ },
+ "doc_025.html": {
+  "company": "Northgate Payments",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "7.5%",
+   "Priya Vasquez",
+   "Leon Nyberg"
+  ]
+ },
+ "doc_026.html": {
+  "company": "Kestrel Semiconductor",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "830.4",
+   "870.9",
+   "Crane Hollis LLP",
+   "899.1",
+   "4,384",
+   "974.6",
+   "271.6",
+   "498.8",
+   "450.4",
+   "1,853.3",
+   "(1,036.7)",
+   "925.8"
+  ]
+ },
+ "doc_027.html": {
+  "company": "Brightwater Software",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "1,059.9",
+   "241.0",
+   "913.3",
+   "3,531",
+   "165.4",
+   "158.1",
+   "(36.7)",
+   "Chief Operating Officer",
+   "(9.8)",
+   "205.2",
+   "Chief Executive Officer",
+   "(8.2)"
+  ]
+ },
+ "doc_028.html": {
+  "company": "Northgate Robotics",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "2,649.7",
+   "215.7",
+   "494.5",
+   "1,143.8",
+   "1,022.6",
+   "1,043.1",
+   "917.7",
+   "157.9",
+   "Chief Technology Officer",
+   "547.7",
+   "(3.0)",
+   "795.8"
+  ]
+ },
+ "doc_029.html": {
+  "company": "Kestrel Semiconductor",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "Isabel Xu",
+   "Leon Haddad",
+   "375"
+  ]
+ },
+ "doc_030.html": {
+  "company": "Halcyon Freight",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "James Kaur",
+   "Rachel Nyberg",
+   "14%",
+   "100"
+  ]
+ },
+ "doc_031.html": {
+  "company": "Corvane Pharma",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "Gabriel Petrov",
+   "2,221.2",
+   "3,053.4",
+   "2,083.5",
+   "905.8",
+   "546.8",
+   "299.3",
+   "383.5",
+   "370.0",
+   "(128.5)",
+   "(847.1)",
+   "(5.8)"
+  ]
+ },
+ "doc_032.html": {
+  "company": "Brightwater Energy",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "931.5",
+   "Calgary",
+   "710.2",
+   "643.4",
+   "898.6",
+   "514.1",
+   "329.6",
+   "350.1",
+   "152.5",
+   "(5.4)",
+   "560.5",
+   "Chief Technology Officer"
+  ]
+ },
+ "doc_033.html": {
+  "company": "Corvane Pharma",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "383.5",
+   "8.5%",
+   "2,649.8",
+   "3,332.6",
+   "512.1",
+   "152.28",
+   "683.5",
+   "512.1",
+   "517.7",
+   "575.1",
+   "383.5",
+   "474.0"
+  ]
+ },
+ "doc_034.html": {
+  "company": "Brightwater Software",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "11.5%",
+   "Rachel Maddox",
+   "Yara Castillo"
+  ]
+ },
+ "doc_035.html": {
+  "company": "Halcyon Freight",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "1,911.3",
+   "2,203.8",
+   "1,862.8",
+   "259.1",
+   "186.6",
+   "6.39",
+   "254.8",
+   "173.9",
+   "186.6",
+   "1,862.8",
+   "2,203.8",
+   "266.4"
+  ]
+ },
+ "doc_036.html": {
+  "company": "Lumen Harbor Foods",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "Manchester",
+   "Hiroshi Brennan",
+   "277.8",
+   "530.0",
+   "274.6",
+   "145.5",
+   "(307.3)",
+   "Chief Executive Officer, executive director",
+   "(57.0)",
+   "570.5",
+   "350.5",
+   "1,121.9"
+  ]
+ },
+ "doc_037.html": {
+  "company": "Orchid Bay Hotels",
+  "fiscal_year": 2025,
+  "doc_type": "research_report",
+  "probes": [
+   "247.3",
+   "231.3",
+   "990.3",
+   "166.6",
+   "187.0",
+   "2.69",
+   "247.3",
+   "166.6",
+   "229.4",
+   "990.3",
+   "210.0",
+   "231.3"
+  ]
+ },
+ "doc_038.html": {
+  "company": "Northgate Robotics",
+  "fiscal_year": 2025,
+  "doc_type": "annual_report",
+  "probes": [
+   "492.1",
+   "Nadia Moreau",
+   "201.9",
+   "1,043.1",
+   "2,649.7",
+   "353.1",
+   "1,137.8",
+   "103.9",
+   "849.5",
+   "130.8",
+   "1,591.6",
+   "Chair of the Board"
+  ]
+ },
+ "doc_039.html": {
+  "company": "Northgate Payments",
+  "fiscal_year": 2024,
+  "doc_type": "annual_report",
+  "probes": [
+   "292.0",
+   "725.7",
+   "2,450",
+   "332.5",
+   "316.9",
+   "Priya Vasquez",
+   "2,450",
+   "328.2",
+   "486.2",
+   "236.6",
+   "(0.5)",
+   "270.2"
+  ]
+ },
+ "doc_040.html": {
+  "company": "Lumen Harbor Foods",
+  "fiscal_year": 2025,
+  "doc_type": "earnings_call",
+  "probes": [
+   "Hiroshi Brennan",
+   "14%",
+   "100",
+   "Qing Abbott"
+  ]
+ }
+}

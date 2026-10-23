@@ -1,0 +1,1463 @@
+{
+ "q001": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Northgate Robotic Systems"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q002": {
+  "category": "table",
+  "type": "number",
+  "answer": 1574.7,
+  "evidence": [
+   [
+    [
+     "doc_020.html",
+     "1,574.7"
+    ],
+    [
+     "doc_021.html",
+     "1,574.7"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Software"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q003": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Northgate Robotics",
+  "aliases": [
+   "Northgate Robotics Inc."
+  ],
+  "reject": [
+   "Northgate Payments"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_011.html",
+     "2,897"
+    ],
+    [
+     "doc_039.html",
+     "2,897"
+    ]
+   ],
+   [
+    [
+     "doc_028.html",
+     "8,073"
+    ],
+    [
+     "doc_038.html",
+     "8,073"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Payments",
+    "Northgate Robotics"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q004": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Kestrel Semiconductor",
+  "aliases": [
+   "Kestrel Semiconductor Ltd."
+  ],
+  "reject": [
+   "Halcyon Freight"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_005.html",
+     "460.1"
+    ],
+    [
+     "doc_017.html",
+     "460.1"
+    ],
+    [
+     "doc_026.html",
+     "460.1"
+    ]
+   ],
+   [
+    [
+     "doc_008.html",
+     "173.9"
+    ],
+    [
+     "doc_016.html",
+     "173.9"
+    ],
+    [
+     "doc_035.html",
+     "173.9"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor",
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q005": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2022,
+   "doc_type": "annual_report"
+  }
+ },
+ "q006": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor"
+   ],
+   "fiscal_year": 2022,
+   "doc_type": "annual_report"
+  }
+ },
+ "q007": {
+  "category": "fact",
+  "type": "name",
+  "answer": "Buy",
+  "reject": [
+   "Hold",
+   "Reduce"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_019.html",
+     "BUY"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "research_report"
+  }
+ },
+ "q008": {
+  "category": "fact",
+  "type": "number",
+  "answer": 8.5,
+  "evidence": [
+   [
+    [
+     "doc_009.html",
+     "8.5%"
+    ],
+    [
+     "doc_033.html",
+     "8.5%"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2026,
+   "doc_type": "earnings_call"
+  }
+ },
+ "q009": {
+  "category": "table",
+  "type": "number",
+  "answer": 2390.3,
+  "evidence": [
+   [
+    [
+     "doc_004.html",
+     "2,390.3"
+    ],
+    [
+     "doc_010.html",
+     "2,390.3"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Sablewood Retail"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q010": {
+  "category": "fact",
+  "type": "name",
+  "answer": "Yara Castillo",
+  "evidence": [
+   [
+    [
+     "doc_020.html",
+     "Yara Castillo"
+    ],
+    [
+     "doc_034.html",
+     "Yara Castillo"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Software"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q011": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Halcyon Air Cargo"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q012": {
+  "category": "table",
+  "type": "number",
+  "answer": 838.4,
+  "evidence": [
+   [
+    [
+     "doc_028.html",
+     "838.4"
+    ],
+    [
+     "doc_038.html",
+     "838.4"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Robotics"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q013": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Brightwater Energy",
+  "aliases": [
+   "Brightwater Energy Corp."
+  ],
+  "reject": [
+   "Orchid Bay Hotels"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_003.html",
+     "369.1"
+    ],
+    [
+     "doc_019.html",
+     "369.1"
+    ],
+    [
+     "doc_032.html",
+     "369.1"
+    ]
+   ],
+   [
+    [
+     "doc_001.html",
+     "166.6"
+    ],
+    [
+     "doc_002.html",
+     "166.6"
+    ],
+    [
+     "doc_037.html",
+     "166.6"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy",
+    "Orchid Bay Hotels"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q014": {
+  "category": "fact",
+  "type": "name",
+  "answer": "Rachel Nyberg",
+  "reject": [
+   "Ursula Schultz"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_016.html",
+     "Rachel Nyberg"
+    ],
+    [
+     "doc_030.html",
+     "Rachel Nyberg"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q015": {
+  "category": "fact",
+  "type": "name",
+  "answer": "Whitlock Byrne",
+  "aliases": [
+   "Whitlock Byrne LLP"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_023.html",
+     "Whitlock Byrne LLP"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Lumen Harbor Foods"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q016": {
+  "category": "table",
+  "type": "number",
+  "answer": 1805.4,
+  "evidence": [
+   [
+    [
+     "doc_024.html",
+     "1,805.4"
+    ],
+    [
+     "doc_031.html",
+     "1,805.4"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q017": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Brightwater Energy",
+  "aliases": [
+   "Brightwater Energy Corp."
+  ],
+  "reject": [
+   "Brightwater Software"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_032.html",
+     "3,627.6"
+    ]
+   ],
+   [
+    [
+     "doc_020.html",
+     "1,326.9"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy",
+    "Brightwater Software"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q018": {
+  "category": "fact",
+  "type": "number",
+  "answer": 75,
+  "evidence": [
+   [
+    [
+     "doc_025.html",
+     "75"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Payments"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "earnings_call"
+  }
+ },
+ "q019": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q020": {
+  "category": "table",
+  "type": "number",
+  "answer": 716.6,
+  "evidence": [
+   [
+    [
+     "doc_032.html",
+     "716.6"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q021": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Northgate Robotics",
+  "aliases": [
+   "Northgate Robotics Inc."
+  ],
+  "reject": [
+   "Northgate Payments"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_028.html",
+     "215.7"
+    ],
+    [
+     "doc_038.html",
+     "215.7"
+    ]
+   ],
+   [
+    [
+     "doc_011.html",
+     "114.5"
+    ],
+    [
+     "doc_039.html",
+     "114.5"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Robotics",
+    "Northgate Payments"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q022": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Orchid Bay Hotels",
+  "aliases": [
+   "Orchid Bay Hotels Ltd."
+  ],
+  "reject": [
+   "Northgate Payments"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_011.html",
+     "841.1"
+    ],
+    [
+     "doc_039.html",
+     "841.1"
+    ]
+   ],
+   [
+    [
+     "doc_001.html",
+     "1,416.9"
+    ],
+    [
+     "doc_002.html",
+     "1,416.9"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Payments",
+    "Orchid Bay Hotels"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q023": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Sablewood Retail",
+  "aliases": [
+   "Sablewood Retail Inc."
+  ],
+  "reject": [
+   "Lumen Harbor Foods"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_023.html",
+     "445.1"
+    ],
+    [
+     "doc_036.html",
+     "445.1"
+    ]
+   ],
+   [
+    [
+     "doc_004.html",
+     "507.2"
+    ],
+    [
+     "doc_018.html",
+     "507.2"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Lumen Harbor Foods",
+    "Sablewood Retail"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q024": {
+  "category": "table",
+  "type": "number",
+  "answer": 316.2,
+  "evidence": [
+   [
+    [
+     "doc_001.html",
+     "316.2"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Orchid Bay Hotels"
+   ],
+   "fiscal_year": 2023,
+   "doc_type": "annual_report"
+  }
+ },
+ "q025": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q026": {
+  "category": "table",
+  "type": "number",
+  "answer": 446.9,
+  "evidence": [
+   [
+    [
+     "doc_008.html",
+     "446.9"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2023,
+   "doc_type": "annual_report"
+  }
+ },
+ "q027": {
+  "category": "fact",
+  "type": "name",
+  "answer": "Memphis",
+  "evidence": [
+   [
+    [
+     "doc_008.html",
+     "Memphis"
+    ],
+    [
+     "doc_016.html",
+     "Memphis"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": null,
+   "doc_type": "annual_report"
+  }
+ },
+ "q028": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Northgate Robotics"
+   ],
+   "fiscal_year": 2021,
+   "doc_type": "annual_report"
+  }
+ },
+ "q029": {
+  "category": "fact",
+  "type": "number",
+  "answer": 2605.8,
+  "evidence": [
+   [
+    [
+     "doc_010.html",
+     "2,605.8"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Sablewood Retail"
+   ],
+   "fiscal_year": 2026,
+   "doc_type": "research_report"
+  }
+ },
+ "q030": {
+  "category": "table",
+  "type": "number",
+  "answer": 363.2,
+  "evidence": [
+   [
+    [
+     "doc_032.html",
+     "363.2"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q031": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Brightwater Energy",
+  "aliases": [
+   "Brightwater Energy Corp."
+  ],
+  "reject": [
+   "Brightwater Software"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_020.html",
+     "200.3"
+    ],
+    [
+     "doc_021.html",
+     "200.3"
+    ],
+    [
+     "doc_027.html",
+     "200.3"
+    ]
+   ],
+   [
+    [
+     "doc_003.html",
+     "369.1"
+    ],
+    [
+     "doc_019.html",
+     "369.1"
+    ],
+    [
+     "doc_032.html",
+     "369.1"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Software",
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q032": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Orchid Bay Hotels"
+   ],
+   "fiscal_year": 2021,
+   "doc_type": "annual_report"
+  }
+ },
+ "q033": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Northgate Robotics"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q034": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Kestrel Microdevices"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q035": {
+  "category": "fact",
+  "type": "number",
+  "answer": 61.16,
+  "evidence": [
+   [
+    [
+     "doc_017.html",
+     "61.16"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "research_report"
+  }
+ },
+ "q036": {
+  "category": "table",
+  "type": "number",
+  "answer": 236.6,
+  "evidence": [
+   [
+    [
+     "doc_011.html",
+     "236.6"
+    ],
+    [
+     "doc_012.html",
+     "236.6"
+    ],
+    [
+     "doc_039.html",
+     "236.6"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Payments"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q037": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Northgate Robotics",
+  "aliases": [
+   "Northgate Robotics Inc."
+  ],
+  "reject": [
+   "Brightwater Software"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_013.html",
+     "307.6"
+    ],
+    [
+     "doc_028.html",
+     "307.6"
+    ],
+    [
+     "doc_038.html",
+     "307.6"
+    ]
+   ],
+   [
+    [
+     "doc_020.html",
+     "260.1"
+    ],
+    [
+     "doc_021.html",
+     "260.1"
+    ],
+    [
+     "doc_027.html",
+     "260.1"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Robotics",
+    "Brightwater Software"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q038": {
+  "category": "table",
+  "type": "number",
+  "answer": 173.9,
+  "evidence": [
+   [
+    [
+     "doc_008.html",
+     "173.9"
+    ],
+    [
+     "doc_016.html",
+     "173.9"
+    ],
+    [
+     "doc_035.html",
+     "173.9"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q039": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q040": {
+  "category": "table",
+  "type": "number",
+  "answer": 162.6,
+  "evidence": [
+   [
+    [
+     "doc_026.html",
+     "162.6"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q041": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Brightwater Mining"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q042": {
+  "category": "fact",
+  "type": "name",
+  "answer": "William Petrov",
+  "reject": [
+   "Oscar Silva"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_003.html",
+     "William Petrov"
+    ],
+    [
+     "doc_032.html",
+     "William Petrov"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q043": {
+  "category": "table",
+  "type": "number",
+  "answer": 586.6,
+  "evidence": [
+   [
+    [
+     "doc_016.html",
+     "586.6"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Halcyon Freight"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q044": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Orchid Bay Resorts"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q045": {
+  "category": "table",
+  "type": "number",
+  "answer": 634.6,
+  "evidence": [
+   [
+    [
+     "doc_023.html",
+     "634.6"
+    ],
+    [
+     "doc_036.html",
+     "634.6"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Lumen Harbor Foods"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q046": {
+  "category": "table",
+  "type": "number",
+  "answer": 897.8,
+  "evidence": [
+   [
+    [
+     "doc_018.html",
+     "897.8"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Sablewood Retail"
+   ],
+   "fiscal_year": 2023,
+   "doc_type": "annual_report"
+  }
+ },
+ "q047": {
+  "category": "table",
+  "type": "number",
+  "answer": 2711.4,
+  "evidence": [
+   [
+    [
+     "doc_024.html",
+     "2,711.4"
+    ],
+    [
+     "doc_031.html",
+     "2,711.4"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q048": {
+  "category": "fact",
+  "type": "name",
+  "answer": "Thomas Kaur",
+  "reject": [
+   "Nadia Moreau"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_014.html",
+     "Thomas Kaur"
+    ],
+    [
+     "doc_038.html",
+     "Thomas Kaur"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Robotics"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q049": {
+  "category": "unanswerable",
+  "type": "not_found",
+  "answer": "NOT_FOUND",
+  "evidence": [],
+  "query": {
+   "companies": [
+    "Brightwater Energy"
+   ],
+   "fiscal_year": 2022,
+   "doc_type": "annual_report"
+  }
+ },
+ "q050": {
+  "category": "table",
+  "type": "number",
+  "answer": 493.5,
+  "evidence": [
+   [
+    [
+     "doc_027.html",
+     "493.5"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Software"
+   ],
+   "fiscal_year": 2023,
+   "doc_type": "annual_report"
+  }
+ },
+ "q051": {
+  "category": "table",
+  "type": "number",
+  "answer": 492.1,
+  "evidence": [
+   [
+    [
+     "doc_038.html",
+     "492.1"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Robotics"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q052": {
+  "category": "table",
+  "type": "number",
+  "answer": 3175.5,
+  "evidence": [
+   [
+    [
+     "doc_005.html",
+     "3,175.5"
+    ],
+    [
+     "doc_026.html",
+     "3,175.5"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q053": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Corvane Pharma",
+  "aliases": [
+   "Corvane Pharma Ltd."
+  ],
+  "reject": [
+   "Brightwater Energy"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_003.html",
+     "2,520"
+    ],
+    [
+     "doc_032.html",
+     "2,520"
+    ]
+   ],
+   [
+    [
+     "doc_024.html",
+     "4,958"
+    ],
+    [
+     "doc_031.html",
+     "4,958"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Brightwater Energy",
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q054": {
+  "category": "table",
+  "type": "number",
+  "answer": 297.4,
+  "evidence": [
+   [
+    [
+     "doc_023.html",
+     "297.4"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Lumen Harbor Foods"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q055": {
+  "category": "table",
+  "type": "number",
+  "answer": 456.2,
+  "evidence": [
+   [
+    [
+     "doc_018.html",
+     "456.2"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Sablewood Retail"
+   ],
+   "fiscal_year": 2023,
+   "doc_type": "annual_report"
+  }
+ },
+ "q056": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Kestrel Semiconductor",
+  "aliases": [
+   "Kestrel Semiconductor Ltd."
+  ],
+  "reject": [
+   "Lumen Harbor Foods"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_026.html",
+     "495.3"
+    ]
+   ],
+   [
+    [
+     "doc_023.html",
+     "437.4"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor",
+    "Lumen Harbor Foods"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q057": {
+  "category": "table",
+  "type": "number",
+  "answer": 153.8,
+  "evidence": [
+   [
+    [
+     "doc_011.html",
+     "153.8"
+    ],
+    [
+     "doc_039.html",
+     "153.8"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Northgate Payments"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q058": {
+  "category": "comparison",
+  "type": "name",
+  "answer": "Corvane Pharma",
+  "aliases": [
+   "Corvane Pharma Ltd."
+  ],
+  "reject": [
+   "Halcyon Freight"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_016.html",
+     "1,948.6"
+    ]
+   ],
+   [
+    [
+     "doc_031.html",
+     "3,079.9"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Halcyon Freight",
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2025,
+   "doc_type": "annual_report"
+  }
+ },
+ "q059": {
+  "category": "fact",
+  "type": "name",
+  "answer": "William Lambert",
+  "reject": [
+   "Thomas Moreau"
+  ],
+  "evidence": [
+   [
+    [
+     "doc_024.html",
+     "William Lambert"
+    ],
+    [
+     "doc_031.html",
+     "William Lambert"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Corvane Pharma"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ },
+ "q060": {
+  "category": "table",
+  "type": "number",
+  "answer": 2083.1,
+  "evidence": [
+   [
+    [
+     "doc_005.html",
+     "2,083.1"
+    ],
+    [
+     "doc_026.html",
+     "2,083.1"
+    ]
+   ]
+  ],
+  "query": {
+   "companies": [
+    "Kestrel Semiconductor"
+   ],
+   "fiscal_year": 2024,
+   "doc_type": "annual_report"
+  }
+ }
+}

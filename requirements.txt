@@ -1,0 +1,8 @@
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-deepseek
+beautifulsoup4
+lxml
+rank-bm25
+python-dotenv
